@@ -1,2 +1,1 @@
-# androidApps
-simple android 8 apps developed in android studio in kotlin
+Repo for my android apps developed in Android Studio in Kotlin
